@@ -5,7 +5,7 @@
  
 ---
 
-For my project, the topic I ultimately chose was badminton since it's a sport that I can play pretty decently and enjoy. I'm not that good at other sports or athletic activities, but badminton is very enjoyable for me. Before settling on badminton, I was debating between music and food as well. However, I thought badminton would be a more exciting topic to do a project about, and learn more about the sport I like. 
+For my project, the topic I ultimately chose was badminton since it's a sport that I can play pretty decently and enjoy. I'm not that good at other sports or athletic activities, but badminton is very enjoyable for me. Before settling on badminton, I was debating between music and food as well. However, I thought badminton would be a more exciting topic to do a project about, and learn more about the sport I like. Websites like [How Technology Is Transforming The Food Industry](https://www.forbes.com/sites/nicolemartin1/2019/04/29/how-technology-is-transforming-the-food-industry/) by Forbes and [The Impact of Technology on Music: A Deep Dive](https://www.yellowbrick.co/blog/entertainment/the-impact-of-technology-on-music-a-deep-dive) by Yellowbrick did pique my interest a little, while [What is NAMD techonlogy?](https://www.badmintonwarehouse.com/blogs/news/what-is-namd-technology#:~:text=NAMD%20technology%20is%20a%20proprietary,construction%20of%20badminton%20racket%20frames) by Badminton warehouse pulled me in deeper into the topic of badminton. 
 
 [Next](entry02.md)
 
