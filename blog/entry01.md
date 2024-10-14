@@ -13,6 +13,15 @@ For my project, the topic I ultimately chose was **badminton** since it's a spor
 
 I'm currently in the first stage of the engineering design process, defining the problem. The problem that I'm trying to address is how technology is applied in badminton. I hope to be able to address what technologies are used in badminton, to eventually end my project with a well-informed project about how we can connect technology to badminton. After this, my next step is to research the problem and I intend to find more reliable sources regarding badminton and its correlation to technology.
 
+### Skills
+
+---
+
+Below are the skills I've learned while working on my blog.
+
+* Attention to detail
+ * Since my blog needs to be professional with no mistakes, I've been trying to pay close attention to my writing in case I have any spelling or grammatical errors. It's harder to do on GitHub especially since it doesn't automatically check your spelling and grammar mistakes like Google Docs. To keep my blog free of typos and grammatical errors, I've constantly been putting my writing into Grammarly so that it can check for any mistakes I've overlooked. 
+
 [Next](entry02.md)
 
 [Home](../README.md)
