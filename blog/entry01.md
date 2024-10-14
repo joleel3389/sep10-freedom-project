@@ -19,7 +19,7 @@ I'm currently in the first stage of the engineering design process, defining the
 
 Below are the skills I've learned while working on my blog.
 
-* Attention to detail
+* **Attention to detail**
   * Since my blog needs to be professional with no mistakes, I've been trying to pay close attention to my writing in case I have any spelling or grammatical errors. It's harder to do on GitHub especially since it doesn't automatically check your spelling and grammar mistakes like Google Docs. To keep my blog free of typos and grammatical errors, I've constantly been putting my writing into Grammarly so that it can check for any mistakes I've overlooked. 
 
 [Next](entry02.md)
