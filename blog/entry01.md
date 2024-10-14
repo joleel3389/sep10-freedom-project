@@ -11,7 +11,7 @@ For my project, the topic I ultimately chose was **badminton** since it's a spor
  
 ---
 
-I'm currently in the first stage of the engineering design process, defining the problem. The problem that I'm trying to address is how technology is applied in badminton. I hope to be able to address what technologies are used in badminton, to eventually end my project with a well-informed project about how we can connect technology to badminton. 
+I'm currently in the first stage of the engineering design process, defining the problem. The problem that I'm trying to address is how technology is applied in badminton. I hope to be able to address what technologies are used in badminton, to eventually end my project with a well-informed project about how we can connect technology to badminton. After this, my next step is to research the problem and I intend to find more reliable sources regarding badminton and its correlation to technology.
 
 [Next](entry02.md)
 
