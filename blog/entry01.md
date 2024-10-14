@@ -22,6 +22,9 @@ Below are the skills I've learned while working on my blog.
 * **Attention to detail**
   * Since my blog needs to be professional with no mistakes, I've been trying to pay close attention to my writing in case I have any spelling or grammatical errors. It's harder to do on GitHub especially since it doesn't automatically check your spelling and grammar mistakes like Google Docs. To keep my blog free of typos and grammatical errors, I've constantly been putting my writing into Grammarly so that it can check for any mistakes I've overlooked. 
 
+* **Time management**
+  * As a sophomore, I have more responsibilities and work to do. I am taking AP World which is a harder course that could potentially gain me college credits. Along with that, I'm also participating in a club on Fridays,  and I plan to start doing community service on Thursdays. Even though I have quite a few things to complete, I still effectively make time to give my best effort to assignments such as this blog. This skill will most definitely help me in the future, but I always have room for improvement and I would like to work on completing assignments a few days earlier than the due date if applicable. 
+
 [Next](entry02.md)
 
 [Home](../README.md)
