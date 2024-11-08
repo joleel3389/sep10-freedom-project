@@ -19,7 +19,7 @@ I'm now in the second stage of the engineering design process, which is to resea
 
 Here are the following skills I've learned while writing my second blog.
 * **How to google**
-  * As I'm in the second stage of the engineering design process, I needed to do a lot of research for my project. I encountered problems where my search 
+  * As I'm in the second stage of the engineering design process, I needed to do a lot of research for my project. I encountered problems where my search wasn't able to find websites that were informational and helpful, so I had to change my searches a couple of times. For instance like the example I stated earlier, 
 
 ### Next steps
 
