@@ -18,8 +18,12 @@ I'm now in the second stage of the engineering design process, which is to resea
 ---
 
 Here are the following skills I've learned while writing my second blog.
+
 * **How to google**
-  * As I'm in the second stage of the engineering design process, I needed to do a lot of research for my project. I encountered problems where my search wasn't able to find websites that were informational and helpful, so I had to change my searches a couple of times. For instance like the example I stated earlier, 
+  * As I'm in the second stage of the engineering design process, I needed to do a lot of research for my project. I encountered problems where my search wasn't able to find websites that were informational and helpful, so I had to change my searches a couple of times. For instance like the example I stated earlier, searching "badminton hardware" didn't really get me anywhere good, so when I changed up my search to "badminton hardware technology", I was able to see more informative websites about badminton hardware. 
+
+* **Organization** 
+  * With my research, I needed a way to organize the information I found on badminton, and so I put it all in my SEP10 notes for our freedom project unit. I was able to effectively organize the websites I found into bullet points, and then I put brief information about these websites in indented bullet points. I separated the badminton software websites from the badminton hardware websites and instead of putting all of my research about badminton software and hardware into a big block of text, I made it easier to read and locate. 
 
 ### Next steps
 
