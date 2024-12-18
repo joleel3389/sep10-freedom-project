@@ -1,4 +1,4 @@
-# Entry 3: Info gathered for part B of my freedom project
+# Entry 3: New ideas for my topic (Badminton)
 ##### X/X/XX
 
 Text
