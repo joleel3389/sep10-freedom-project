@@ -26,6 +26,7 @@ Here are the following skills I've learned while writing my third blog.
 ---
 
 After brainstorming possible ideas for badminton, I'm ready to move onto the next EDP stage- to plan a promising final solution. 
+
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
