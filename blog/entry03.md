@@ -1,4 +1,4 @@
-# Entry 3
+# Entry 3: Info gathered for part B of my freedom project
 ##### X/X/XX
 
 Text
