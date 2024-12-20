@@ -5,7 +5,7 @@
 
 ---
 
-For entry 3, I was required to now brainstorm new technological ideas for my topic following the information I gathered on already existing technologies. Since they had to be new ideas, I didn't use any websites- but for sources I looked at previous student's  freedom projects. Some of their websites I looked at was one about [oceanography](https://austinl1905.github.io/sep10-freedom-project/)
+For entry 3, I was required to now brainstorm new technological ideas for my topic following the information I gathered on already existing technologies. Since they had to be new ideas, I didn't use any websites- but for sources I looked at previous student's  freedom projects. Some of their websites I looked at was one about [oceanography](https://austinl1905.github.io/sep10-freedom-project/) and one about [music](https://jairop2409.github.io/sep10-freedom-project/). My topic is badminton which is pretty specific in my opinion, so I did not see any previous projects with the same topic for reference. Instead, I just generally looked at the futture innovations section
 
 ### Engineering design process 
 
