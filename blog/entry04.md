@@ -20,7 +20,7 @@ For entry 4, my task was to choose a tool to use on my freedom project. The tool
 }
 ```
 
-While the following image below shows the output of my CSS code.
+While the following image below shows the output of my CSS code (the choices/buttons).
 
 ![image](https://github.com/user-attachments/assets/b6967eeb-a1af-43c2-8db9-45332b78d134)
 
