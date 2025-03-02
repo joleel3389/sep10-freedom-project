@@ -28,7 +28,7 @@ While the following image below shows the output of my CSS code (the choices/but
 
 ---
 
-I'm in the 4th stage of the EDP (engineering design process), which is to plan the most promising solution. After brainstorming possible ideas for badminton, I've been looking into possible freedom project tools that I can use for my freedom project, to which I chose flexbox. My next step of EDP is to create a prototype, where I will most likely create the base website for my freedom project.
+I'm in the 4th stage of the EDP (engineering design process), which is to plan the most promising solution. After brainstorming possible ideas for my freedom project topic of badminton, I've been looking into possible freedom project tools that I can use for my freedom project, to which I chose flexbox. My next step of EDP is to create a prototype, where I will most likely create the base website for my freedom project.
 
 ### Skills
 
