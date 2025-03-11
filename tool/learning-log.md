@@ -12,8 +12,8 @@
     * Variables used with this property are `row`, `column`, `row-reverse`, and `column-reverse`.
         * I used the `row` value to have my elements displayed horizontally, but not in reversed order.
 
-This is my CSS that shows my tinkering. 
-```
+This is my CSS that shows my tinkering.
+```css
 .buttons {
     display: flex;
     flex-direction: row;
@@ -24,6 +24,23 @@ This is my CSS that shows my tinkering.
 }
 ```
 
+### 3/10/25:
+* I learned how to use the `flex-grow` property.
+    * Flex grow has a value, where you can input a number value.
+    * The default value for flex-grow is set to 0.
+
+This is my HTML with inline CSS that shows my tinkering.
+```html
+  <div class="container">
+    <div class="mini" style="flex-grow: 1;">1</div>
+    <div class="mini" style="flex-grow: 5">2</div>
+    <div class="mini" style="flex-grow: 1">3</div>
+  </div>
+```
+
+The second div will come out to be 5 times bigger than the others, since the value of flex grow is 5, while the rest is 1. The following outcome image shows that div 2 is clearly 5 times bigger.
+
+insert image here later
 
 ### X/X/XX:
 * Text
