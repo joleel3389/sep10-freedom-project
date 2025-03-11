@@ -40,7 +40,8 @@ This is my HTML with inline CSS that shows my tinkering.
 
 The second div will come out to be 5 times bigger than the others, since the value of flex grow is 5, while the rest is 1. The following outcome image shows that div 2 is clearly 5 times bigger.
 
-insert image here later
+![Screenshot 2025-03-10 2 21 36 PM](https://github.com/user-attachments/assets/fe3e596a-40fd-4823-82e2-4733b4d505af)
+
 
 ### X/X/XX:
 * Text
