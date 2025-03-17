@@ -4,7 +4,7 @@
 
 ---
 
-### 3/6/25:
+### 3/3/25:
 * I learned how to use the `justify-content` property.
     * Variables I can use with this property are `center`, `flex-start`, `flex-end`, `space-around`, `space-between`, and `space-evenly`.
         * I used the value `space-evenly`, so my elements under my **buttons** class would be equidistant from each other.
