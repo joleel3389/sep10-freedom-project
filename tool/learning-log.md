@@ -27,7 +27,7 @@ This is my CSS that shows my tinkering.
 ### 3/10/25:
 * I learned how to use the `flex-grow` property.
     * Flex grow has a value, where you can input a number value.
-    * The default value for flex-grow is set to 0.
+    * The default value for `flex-grow` is set to 0.
 
 This is my HTML with inline CSS that shows my tinkering.
 ```html
@@ -41,6 +41,15 @@ This is my HTML with inline CSS that shows my tinkering.
 The second div will come out to be 5 times bigger than the others, since the value of flex grow is 5, while the rest is 1. The following outcome image shows that div 2 is clearly 5 times bigger.
 
 insert image here later
+
+### 3/17/25:
+* I learned how to use the `flex-shrink` property.
+  * Flex shrink is like `flex-grow` and needs a number value
+    * Unlike flex grow, flex items will shrink with this property.
+  * The default value for `flex-shrink` is set to 1.
+
+
+
 
 ### X/X/XX:
 * Text
