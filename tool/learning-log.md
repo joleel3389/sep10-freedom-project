@@ -42,15 +42,30 @@ The second div will come out to be 5 times bigger than the others, since the val
 
 ![Screenshot 2025-03-10 2 21 36 PM](https://github.com/user-attachments/assets/fe3e596a-40fd-4823-82e2-4733b4d505af)
 
-
 ### 3/17/25:
 * I learned how to use the `flex-shrink` property.
   * Flex shrink is like `flex-grow` and needs a number value
     * Unlike flex grow, flex items will shrink with this property.
   * The default value for `flex-shrink` is set to 1.
 
+The following HTML with inline CSS code shows my tinkering.
+```html
+  <div class="flex-container">
+    <div class="mini">1</div>
+    <div class="mini" style="flex-shrink: 2">2</div>
+    <div class="mini">3</div>
+    <div class="mini">4</div>
+    <div class="mini">5</div>
+    <div class="mini">6</div>
+    <div class="mini">7</div>
+    <div class="mini">8</div>
+    <div class="mini">9<div>
+  </div>
+```
 
+The second div will shrink compared to the rest by 2, like shown in the image below.
 
+add image here later
 
 ### X/X/XX:
 * Text
