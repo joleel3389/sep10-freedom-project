@@ -65,7 +65,7 @@ The following HTML with inline CSS code shows my tinkering.
 
 The second div will shrink compared to the rest by 2, like shown in the image below.
 
-add image here later
+![2025-03-21 16_07_47-Window](https://github.com/user-attachments/assets/7ea32164-6754-43bd-8ad7-b867adc16393)
 
 ### X/X/XX:
 * Text
