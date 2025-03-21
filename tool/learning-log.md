@@ -4,7 +4,7 @@
 
 ---
 
-### 3/6/25:
+### 3/3/25:
 * I learned how to use the `justify-content` property.
     * Variables I can use with this property are `center`, `flex-start`, `flex-end`, `space-around`, `space-between`, and `space-evenly`.
         * I used the value `space-evenly`, so my elements under my **buttons** class would be equidistant from each other.
@@ -40,7 +40,8 @@ This is my HTML with inline CSS that shows my tinkering.
 
 The second div will come out to be 5 times bigger than the others, since the value of flex grow is 5, while the rest is 1. The following outcome image shows that div 2 is clearly 5 times bigger.
 
-insert image here later
+![Screenshot 2025-03-10 2 21 36 PM](https://github.com/user-attachments/assets/fe3e596a-40fd-4823-82e2-4733b4d505af)
+
 
 ### 3/17/25:
 * I learned how to use the `flex-shrink` property.
