@@ -99,7 +99,7 @@ The following HTML shows how I tinked with the `flex` property.
 ```
 Div #1 will grow 2 times greater than the other two divs which have a set width of 10px (div #2) and 20px (div #3). However, none of the divs are shrinkable, divs #2 and #3 are not growable, and div #1 does not have a set width as shown.
 
-image
+![Screenshot 2025-03-27 2 05 43 PM](https://github.com/user-attachments/assets/600f74c8-d795-44c5-ab2c-99b3ef25ce76)
 
 ### X/X/XX:
 * Text
