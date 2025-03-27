@@ -67,8 +67,36 @@ The second div will shrink compared to the rest by 2, like shown in the image be
 
 ![2025-03-21 16_07_47-Window](https://github.com/user-attachments/assets/7ea32164-6754-43bd-8ad7-b867adc16393)
 
+### 3/24/25:
+* I learned how to use the `flex-basis` property.
+  * Flex basis allows you to set a length for your flex item.
+    * For instance, if you want your flex item to have a length of 100px, set the value of `flex-basis` to 100px.
+
+The following HTML shows how I tinkered with the `flex-basis` property.
+```html
+<div class="flex-container">
+  <div>1</div>
+  <div style="flex-basis: 100px;">2</div>
+  <div>3</div>
+</div>
+```
+
+Compared to the other divs, div #2 will be set to have a width of 100 pixels, while the others are set to the default like shown below.
+
+image here later
+
+* I learned about the `flex` property.
+  * The flex property combines the previous 3 flex properties, which are `flex-grow`, `flex-shrink`, and `flex-basis`.
+    * The values when using the `flex` property will go in the corresponding order as well (grow, shrink, then basis).
+
+The following HTML shows how I tinked with the `flex` property.
+```html
+
+```
+
+analysis
+
+image
+
 ### X/X/XX:
 * Text
-
-
-
