@@ -91,10 +91,13 @@ image here later
 
 The following HTML shows how I tinked with the `flex` property.
 ```html
-
+<div class="flex-container">
+  <div style="flex: 2 0 0px">1</div>
+  <div style="flex: 0 0 10px;">2</div>
+  <div style="flex: 0 0 20px;">3</div>
+</div>
 ```
-
-analysis
+Div #1 will grow 2 times greater than the other two divs which have a set width of 10px (div #2) and 20px (div #3). However, none of the divs are shrinkable, divs #2 and #3 are not growable, and div #1 does not have a set width as shown. 
 
 image
 
