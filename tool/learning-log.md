@@ -83,7 +83,7 @@ The following HTML shows how I tinkered with the `flex-basis` property.
 
 Compared to the other divs, div #2 will be set to have a width of 100 pixels, while the others are set to the default like shown below.
 
-image here later
+![Screenshot 2025-03-27 1 50 16 PM](https://github.com/user-attachments/assets/096650c9-8240-424c-8265-5d6f19a1e310)
 
 * I learned about the `flex` property.
   * The flex property combines the previous 3 flex properties, which are `flex-grow`, `flex-shrink`, and `flex-basis`.
@@ -93,6 +93,7 @@ The following HTML shows how I tinked with the `flex` property.
 ```html
 
 ```
+
 
 analysis
 
