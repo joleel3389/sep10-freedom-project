@@ -89,7 +89,7 @@ Compared to the other divs, div #2 will be set to have a width of 100 pixels, wh
   * The flex property combines the previous 3 flex properties, which are `flex-grow`, `flex-shrink`, and `flex-basis`.
     * The values when using the `flex` property will go in the corresponding order as well (grow, shrink, then basis).
 
-The following HTML shows how I tinked with the `flex` property.
+The following HTML shows how I tinkered with the `flex` property.
 ```html
 <div class="flex-container">
   <div style="flex: 2 0 0px">1</div>
@@ -100,6 +100,25 @@ The following HTML shows how I tinked with the `flex` property.
 Div #1 will grow 2 times greater than the other two divs which have a set width of 10px (div #2) and 20px (div #3). However, none of the divs are shrinkable, divs #2 and #3 are not growable, and div #1 does not have a set width as shown.
 
 ![Screenshot 2025-03-27 2 05 43 PM](https://github.com/user-attachments/assets/600f74c8-d795-44c5-ab2c-99b3ef25ce76)
+
+### 4/1/25:
+* I learned about the `align-self` property.
+  * The `align-self` allows you to change the alignment of one particular flex-item
+  * The value set for the `align-self` property will be prioritized over the value you have set for the `align-items` property.
+  * Possible values include center, flex-start, and flex-end for instance.
+
+The following HTML shows how I tinkered with the `align-self` property.
+```html
+<div class="flex-container">
+  <div style="align-self: center">1</div>
+  <div style="align-self: flex-start">2</div>
+  <div style="align-self: flex-end">3</div>
+</div>
+```
+
+The first div will be positioned to the center, the second div to the top, and the third div to the bottom of the container shown in the image below.
+
+image here
 
 ### X/X/XX:
 * Text
