@@ -118,7 +118,7 @@ The following HTML shows how I tinkered with the `align-self` property.
 
 The first div will be positioned to the center, the second div to the top, and the third div to the bottom of the container shown in the image below.
 
-image here
+![2025-04-06 16_18_43-Window](https://github.com/user-attachments/assets/0634755e-731f-4b29-82bb-567533eb7d21)
 
 ### X/X/XX:
 * Text
