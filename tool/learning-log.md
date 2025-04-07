@@ -1,3 +1,4 @@
+
 # Tool Learning Log
 
 ## Tool: **Flexbox**
@@ -135,7 +136,7 @@ For instance, the following code will still prioritize div #1 to be shown first,
 </div>
 ```
 
-image
+![Screenshot 2025-04-07 2 24 13 PM](https://github.com/user-attachments/assets/049471a4-894e-42ed-94a0-a5f25cbdd05d)
 
 Whileas 
 
