@@ -138,7 +138,16 @@ For instance, the following code will still prioritize div #1 to be shown first,
 
 ![Screenshot 2025-04-07 2 24 13 PM](https://github.com/user-attachments/assets/049471a4-894e-42ed-94a0-a5f25cbdd05d)
 
-Whileas 
+Whileas in this code, the divs will be in the opposite order due to the value priority (lower values are prioritized first).
+```html
+<div class="flex-container">
+  <div style="order: 3">1</div>
+  <div style="order: 2">2</div>
+  <div style="order: 1">3</div>
+</div>
+```
+
+image
 
 ### X/X/XX:
 * Text
