@@ -120,5 +120,24 @@ The first div will be positioned to the center, the second div to the top, and t
 
 image here
 
+### 4/7/25:
+* I learned the `order` property that's used with flex items.
+  * The `order` property is used to reorder any existing flex items.
+  * The value you use for the `order` property must be a number value, with the default being 0, the most prioritized.
+    * If you don't use any values that are less than the default ones, your order will stay the same, with first flex-item prioritized to be first.
+
+For instance, the following code will still prioritize div #1 to be shown first, as a value of 1 in div #3 will not override that value for being greater.
+```html
+<div class="flex-container">
+  <div>1</div>
+  <div style="order: 2">2</div>
+  <div style="order: 1">3</div>
+</div>
+```
+
+image
+
+Whileas 
+
 ### X/X/XX:
 * Text
