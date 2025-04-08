@@ -149,6 +149,36 @@ Whileas in this code, the divs will be in the opposite order due to the value pr
 
 ![2025-04-07 19_25_34-Window](https://github.com/user-attachments/assets/7884a534-764c-492c-a39a-f711c539e714)
 
+### 4/8/25:
+* I learned how to use the `flex-wrap` property.
+  * Flex wrap has 3 values, `nowrap`, `wrap`, and `wrap-reverse`.
+    * The value `nowrap` is meant to prevent your flex items from wrapping. This is also the default set value.
+    * The `wrap` value allows your flex items to wrap if there is no more space on the screen.
+    * The `wrap-reverse` will wrap your flex items, but in the reverse order.
+* I learned how to use the `flex-flow` property.
+  * The `flex-flow` property allows you to put the values for `flex-wrap` and `flex-direction` onto one line of code.
+
+The following code and image shows the use of the `wrap-reverse` value belonging to `flex-wrap` and `row` value belonging to `flex-direction` in the `flex-flow` property.
+```css
+.flex-container {
+  display: flex;
+  border: 0px;
+  background-color: transparent;
+   height:200px;
+}
+div {
+  border: 2px blue solid;
+  background-color: white;
+  margin: auto;
+  padding: 0px 40px 0px 40px;
+  text-align: center;
+  margin: 10px;
+  align-self: center;
+  flex-flow: row wrap-reverse;
+}
+```
+
+image
 
 ### X/X/XX:
 * Text
