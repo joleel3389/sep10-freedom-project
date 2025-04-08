@@ -180,5 +180,7 @@ div {
 
 ![Screenshot 2025-04-08 1 58 00 PM](https://github.com/user-attachments/assets/94be6d11-bf48-4fbe-8cc3-4e40d2f27821)
 
+The flex items will be in a row formation, but if wrapping is needed they'll wrap in the reverse order, starting from numbers 4 through 6 instead of 1 through 3 on the first row.
+
 ### X/X/XX:
 * Text
