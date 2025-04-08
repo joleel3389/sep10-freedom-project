@@ -164,7 +164,7 @@ The following code and image shows the use of the `wrap-reverse` value belonging
   display: flex;
   border: 0px;
   background-color: transparent;
-   height:200px;
+  height: 200px;
 }
 div {
   border: 2px blue solid;
