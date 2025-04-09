@@ -210,7 +210,7 @@ div {
 }
 ```
 
-image
+![Screenshot 2025-04-09 2 11 01 PM](https://github.com/user-attachments/assets/a1a96290-0065-4250-bf89-560eaeabbfbc)
 
 * I learned the `align-items` property.
   * The purpose of this property is similar to the `align-content` property except it's for aligning th flex items if there is space available still.
@@ -218,7 +218,7 @@ image
 
 The following screenshot shows that the`baseline` value aligns all flex items to the text baseline, no matter how big the font is.
 
-image
+![Screenshot 2025-04-09 2 17 00 PM](https://github.com/user-attachments/assets/6cff69bf-426d-4d5f-81ee-33c1539e6501)
 
 ### X/X/XX:
 * Text
