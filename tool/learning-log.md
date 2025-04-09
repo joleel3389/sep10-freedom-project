@@ -182,5 +182,43 @@ div {
 
 The flex items will be in a row formation, but if wrapping is needed they'll wrap in the reverse order, starting from numbers 4 through 6 instead of 1 through 3 on the first row.
 
+### 4/9/25:
+* I learned the `align-content` property.
+  * This property aligns along an invisible flex line.
+  * Values used with this property are `center`, `stretch`, `flex-start`, `flex-end`, `space-around`, `space-between`, and `space-evenly`.
+    * Works better when `flex-wrap` is set to wrap.
+
+For instance, in this code the `flex-wrap` property is set to `wrap` in order to see and complement the `flex-end` value of `align-content`, which allows the container to be aligned to the bottom of the screen.
+```css
+.flex-container {
+  display: flex;
+  border: 0px;
+  background-color: transparent;
+ height: 600px;
+  padding: 0px;
+
+  align-content: flex-end;
+  flex-wrap: wrap;
+}
+div {
+  border: 2px blue solid;
+  background-color: white;
+  padding: 0px 40px 0px 40px;
+  align-self: center;
+  margin: 10px;
+  text-align: center;
+}
+```
+
+image
+
+* I learned the `align-items` property.
+  * The purpose of this property is similar to the `align-content` property except it's for aligning th flex items if there is space available still.
+  * Values of this property are `center`, `flex-start`, `flex-end`, `stretch`, `baseline`, and `normal`.
+
+The following screenshot shows that the`baseline` value aligns all flex items to the text baseline, no matter how big the font is.
+
+image
+
 ### X/X/XX:
 * Text
