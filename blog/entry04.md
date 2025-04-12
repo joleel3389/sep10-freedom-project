@@ -45,7 +45,7 @@ Here are the following skills I've learned while writing my fourth blog.
 
 ---
 
-After choosing my freedom project tool, I will move on to step 5 of the EDP- to create a prototype.
+After choosing my freedom project tool, I will continue to learn my tool until I'm ready to create a prototype.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
