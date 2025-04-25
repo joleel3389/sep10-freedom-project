@@ -11,8 +11,6 @@
 * `#838183`
 * `#1C1921`
 
-![color order](<Screenshot 2025-04-24 2.18.18 PM.png>)
-
 ## Fonts
 * [Petrona](https://fonts.google.com/specimen/Petrona)
 * [Manrope](https://fonts.google.com/specimen/Manrope)
@@ -25,7 +23,6 @@
 * 4/28/25 - code part A containers, part B containers, and the footer.
 * 4/29/25 - change colors and fonts to correspond with my choices.
 * 4/30/25 - add/ensure responsiveness works for the sake of mobile devices
-*
 
 #### MVP
 
