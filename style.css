@@ -1,3 +1,13 @@
 .ms-auto {
     margin-left: auto;
 }
+#badminton-icon{
+    border-radius: 15%;
+}
+.bg-light{
+    background: #F2F3F1 !important;
+}
+#parta {
+    padding-top: 135px;
+    width: 80%;
+}
