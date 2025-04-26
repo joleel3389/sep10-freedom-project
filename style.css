@@ -11,3 +11,19 @@
     padding-top: 135px;
     width: 80%;
 }
+#context-img{
+    text-align: center;
+}
+#context-title{
+    padding-bottom: 18px;
+}
+#context-photo{
+    width: 60%;
+    height: 70%;
+}
+#context-description{
+    margin: auto;
+}
+#context-text{
+    font-size: 20px;
+}
