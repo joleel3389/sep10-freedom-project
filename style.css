@@ -7,9 +7,19 @@
 .bg-light{
     background: #F2F3F1 !important;
 }
-#parta {
+.bg-dark{
+    background-color: #1C1921;
+}
+.text-light{
+    color:#F2F3F1;
+}
+.text-dark{
+    color: #1C1921;
+}
+#context {
     padding-top: 135px;
-    width: 80%;
+    /* width: 80%; */
+    padding-bottom: 75px;
 }
 #context-img{
     text-align: center;
@@ -23,7 +33,53 @@
 }
 #context-description{
     margin: auto;
+    /* padding-right: 100px; */
+}
+@media (min-width: 768px){
+    #context-description{
+        padding-right:100px;
+    }
+}
+@media (max-width: 768px){
+    #context-description{
+        padding: 20px;
+    }
+    #context-title{
+        padding-bottom: 0px;
+    }
 }
 #context-text{
     font-size: 20px;
+}
+#part-a{
+    margin: auto;
+    text-align: center;
+    padding: 30px 0px 30px 0px;
+}
+#part-a-text, .dark-bg-headers{
+    width: 50%;
+    margin: auto;
+    padding: 5px;
+}
+.sub-headers{
+    font-weight: bold;
+}
+.part-a-mini-header{
+    text-align:center;
+    padding-top: 35px;
+    padding-bottom: 15px;
+}
+#hardware-content, #software-content{
+    margin: auto;
+    width: 70%;
+    text-align: center;
+}
+.part-b-header{
+    text-align:center;
+    padding-top: 35px;
+    padding-bottom: 30px;
+}
+.part-b-mini{
+    padding-top: 10px;
+    padding-bottom: 20px;
 }
