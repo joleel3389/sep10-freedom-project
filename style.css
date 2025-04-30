@@ -83,3 +83,31 @@
     padding-top: 10px;
     padding-bottom: 20px;
 }
+/* #footer{
+    display: flex;
+    align-items:baseline;
+} */
+#footer-icon{
+    text-align:left;
+}
+#footer-author{
+    text-align:center;
+}
+#footer-link{
+    text-align:right;
+}
+#footer-alink:hover, #footer-alink:link, #footer-alink:visited, #footer-alink:active{
+    color: #1C1921;
+    text-decoration: none;
+}
+footer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    text-align: center;
+    margin: auto;
+    flex-wrap: wrap;
+    align-content: center;
+}
