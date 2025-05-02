@@ -51,6 +51,28 @@
 #context-text{
     font-size: 20px;
 }
+
+.cards-row{
+    display:flex;
+    align-items:baseline;
+}
+#sports-carnival{
+    width: 40%;
+    margin-bottom:40px;
+}
+#bwf {
+    width:50%;
+    margin-bottom:40px;
+}
+#hawk-eye{
+    width: 50%;
+    margin-bottom:40px;
+}
+#namd{
+    width:60%;
+    margin-bottom:40px;
+
+}
 #part-a{
     margin: auto;
     text-align: center;
@@ -73,6 +95,7 @@
     margin: auto;
     width: 70%;
     text-align: center;
+    padding-bottom: 40px;
 }
 .part-b-header{
     text-align:center;
