@@ -5,7 +5,7 @@
 
 ---
 
-For entry 5, my task was to further learn more about the freedom project tool I chose (which was flexbox), to be able to use it/incorporate it in my actual freedom project later. For my tool, I got to learn all of the properties used with it, with some honorable mentions being `flex-flow`, `flex`, and `align-items` for instance. In the process of learning all the properties of flexbox, I used [W3Schools](https://www.w3schools.com/css/css3_flexbox.asp) to learn the properties, and [jsbin](https://jsbin.com) to tinker with and understand these properties.
+For entry 5, my task was to further learn more about the freedom project tool I chose (which was flexbox), to be able to use it/incorporate it in my actual freedom project later. For my tool, I got to learn all of the properties used with it, with some honorable mentions being `flex-flow`, `flex`, and `align-items` for instance. In the process of learning all the properties of flexbox, I used [W3Schools](https://www.w3schools.com/css/css3_flexbox.asp) to learn the properties, and [ChatGPT](https://chatgpt.com/) to ask questions I was curious about, but not answered on the documentation I used.
 
 For example, with the `flex-flow` property, this property has two values. One value belongs to `flex-wrap`, and the other to `flex-direction`. The purpose of the `flex-flow` property is to have both of the properties `flex-wrap` and `flex-direction` be used under one property; `flex-flow`. When writing the values for `flex-flow`, the direction goes first, and then if the item should wrap or not. I tinkered with it as shown in my code snippet and image output below.
 ```css
