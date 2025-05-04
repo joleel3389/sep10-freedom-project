@@ -16,6 +16,22 @@
 .text-dark{
     color: #1C1921;
 }
+.suva-gray {
+    color: #838183 !important;
+}
+.oslo-gray {
+    color: #8b8f91 !important
+}
+.manrope {
+    font-family: "Manrope", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.petrona {
+    font-family: "Petrona", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
 #context {
     padding-top: 135px;
     /* width: 80%; */
@@ -31,18 +47,41 @@
     width: 60%;
     height: 70%;
 }
+@media (max-width: 1200px){
+    #context-photo{
+        width:70%;
+        height:60%;
+    }
+}
+@media (max-width:992px){
+    #context-photo{
+        width:60%;
+        height:70%;
+    }
+}
+@media (max-width: 768px){
+    #context-photo{
+        padding-top: 20px;
+    }
+}
+@media (max-width: 576px){
+    #context-photo{
+        padding-top:30px;
+    }
+}
 #context-description{
     margin: auto;
     /* padding-right: 100px; */
 }
 @media (min-width: 768px){
     #context-description{
-        padding-right:100px;
+        /* padding-right:100px; */
     }
 }
 @media (max-width: 768px){
     #context-description{
-        padding: 20px;
+        /* padding: 20px; */
+        padding-top: 10px;
     }
     #context-title{
         padding-bottom: 0px;
@@ -54,10 +93,10 @@
 
 .cards-row{
     display:flex;
-    align-items:baseline;
+    align-items:baseline !important;
 }
 #sports-carnival{
-    width: 40%;
+    width: 30%;
     margin-bottom:40px;
 }
 #bwf {
@@ -66,17 +105,24 @@
 }
 #hawk-eye{
     width: 50%;
-    margin-bottom:40px;
+    margin-bottom:30px;
 }
 #namd{
     width:60%;
     margin-bottom:40px;
+    margin-top: 10px;
 
 }
 #part-a{
     margin: auto;
     text-align: center;
     padding: 30px 0px 30px 0px;
+}
+@media (max-width:992px){
+    .part-a-cards, .part-b-cards{
+        /* padding-top: 30px; */
+        margin: 20px 0px 30px 0px;
+    }
 }
 #part-a-text, .dark-bg-headers{
     width: 50%;
@@ -89,22 +135,28 @@
 .part-a-mini-header{
     text-align:center;
     padding-top: 35px;
-    padding-bottom: 15px;
+    /* padding-bottom: 15px; */
+    margin-bottom: 0px;
+}
+@media (min-width: 992px){
+    .part-a-mini-header{
+        padding-bottom: 30px;
+    }
 }
 #hardware-content, #software-content{
     margin: auto;
-    width: 70%;
+    width: 90%;
     text-align: center;
     padding-bottom: 40px;
 }
 .part-b-header{
     text-align:center;
-    padding-top: 35px;
+    padding-top: 40px;
     padding-bottom: 30px;
 }
 .part-b-mini{
     padding-top: 10px;
-    padding-bottom: 20px;
+    padding-bottom: 25px;
 }
 /* #footer{
     display: flex;
@@ -112,6 +164,8 @@
 } */
 #footer-icon{
     text-align:left;
+    width: 30px;
+    height: 30px;
 }
 #footer-author{
     text-align:center;
