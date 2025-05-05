@@ -7,7 +7,6 @@
 ## Colors
 * `#F2F3F1`
 * `#8B8F91`
-* `#A3A292`
 * `#838183`
 * `#1C1921`
 
@@ -26,31 +25,35 @@
 * 5/1/25 - add images, try to fix stuff and not crash out
 * 5/2/25 - change colors and fonts to correspond with my choices
 * 5/3/25 - add/ensure responsiveness works for the sake of mobile devices
+* 5/4/25 - finishing touches
 
 #### MVP
 
-* timeline
-* include badminton context on my page
-* have all part a content summarized/broken down on my page (on cards)
-* have all part b context summarized/broken down on my page (also on cards)
-* fit all my future innovation ideas on my page (scratch the line tho)
-* incorporate flexbox tool
+* timeline - done
+* wireframes - done
+* include badminton context on my page - done
+* have all part a content summarized/broken down on my page (on cards) - done
+* have all part b context summarized/broken down on my page (also on cards) - done
+* fit all my future innovation ideas on my page (scratch the line tho) - done
+* incorporate flexbox tool - done
     * maybe baseline alignment of my card containers
-    * try vertical alignment on mobile responsive version
-* ensure website is responsive
+* ensure website is responsive - done
     * including a working navbar and footer (the top link)
-* unique fonts
-* unique colors
+    * mobile vertical layout
+* unique fonts - done
+* unique colors - done
+
+remember to commit plsplsplss
 
 ---
 
 #### Beyond MVP
 
-* add more components maybe
-* make website more appealing
+* add more components maybe?
+* make website more appealing? - done
     * fix weird positioning
     * fix image proportions
-* find a better color palette
+* find a better color palette?
 
 
 
