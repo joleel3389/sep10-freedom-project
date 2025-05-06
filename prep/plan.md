@@ -68,7 +68,7 @@ remember to commit plsplsplss
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
 | Damaris  | I like how everything is very neat and organized as well as the formatting  | Try adding in some fonts and colors to make it look more appealing
-|   |   |
+| Darren Li  | I like how everything is  neat and how the text changeks the space it takes up when the screen changes size. | Some of the text is very hard to see because it blends in with the background like in the software and future technology sections, you should change the text to a color that sticks out more from the background so it is easier to see.
 |   |   |
 |   |   |
 |   |   |
