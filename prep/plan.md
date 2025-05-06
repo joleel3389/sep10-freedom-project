@@ -63,7 +63,7 @@ remember to commit plsplsplss
 
 
 
-<!-- DO NOT USE THIS YET
+
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
@@ -74,4 +74,4 @@ remember to commit plsplsplss
 |   |   |
 |   |   |
 
--->
+
