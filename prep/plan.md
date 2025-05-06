@@ -67,7 +67,7 @@ remember to commit plsplsplss
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|   |   |
+| Damaris  | I like how everything is very neat and organized as well as the formatting  | Try adding in some fonts and colors to make it look more appealing
 |   |   |
 |   |   |
 |   |   |
