@@ -49,11 +49,11 @@ remember to commit plsplsplss
 
 #### Beyond MVP
 
-* add more components maybe?
 * make website more appealing? - done
     * fix weird positioning
     * fix image proportions
 * find a better color palette?
+* * add more components maybe?
 
 
 
