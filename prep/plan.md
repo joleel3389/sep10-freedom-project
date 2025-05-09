@@ -57,7 +57,9 @@ remember to commit plsplsplss
 
 ### last minute revisions
 
-make font color for "top" on my footer darker
+* make font color for "top" on my footer darker
+* maybe draw images on my future innovations? idk
+* use more flexbox/make it more distinctable that i used it?
 
 
 
@@ -73,5 +75,7 @@ make font color for "top" on my footer darker
 | Jintian  | I like how responsive your website is, and the images representing the topic you are saying.  | I think the text color in black should be changed to white as it is not really clear for people to see.
 | Gabriel  | I like the black and white color scheme and how intergrated the pictures look  | Make the "top" button at the bottom more obvious
 | Rain  |  I like the black-gray to white pattern design of the website.  | Consider making the "top" button more obvious and add a footer (your preference).
+| Ronnie | I really like how you made a section for your future technology ideas (part B) | Consider adding in some images on how it would look? It be really nice to have references to your ideas. I think it would look wonderful!
+| Winnie | I like how the color has a pattern; it makes it look simple and nice. I also like how you have this "top" button on the bottom. | I don't know if you used any of your tools, but I feel that using some might improve it.
 
 
