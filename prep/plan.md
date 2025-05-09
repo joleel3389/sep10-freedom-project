@@ -55,9 +55,9 @@ remember to commit plsplsplss
 * find a better color palette?
 * * add more components maybe?
 
+### last minute revisions
 
-
-
+make font color for "top" on my footer darker
 
 
 
@@ -71,7 +71,7 @@ remember to commit plsplsplss
 | Darren Li  | I like how everything is  neat and how the text changeks the space it takes up when the screen changes size. | Some of the text is very hard to see because it blends in with the background like in the software and future technology sections, you should change the text to a color that sticks out more from the background so it is easier to see.
 | Tina  | I like the images that you included and how you organized your website  |I would consider making the text within the black background a different color as the text is not exactly the most clear. 
 | Jintian  | I like how responsive your website is, and the images representing the topic you are saying.  | I think the text color in black should be changed to white as it is not really clear for people to see.
-|   |   |
-|   |   |
+| Gabriel  | I like the black and white color scheme and how intergrated the pictures look  | Make the "top" button at the bottom more obvious
+| Rain  |  I like the black-gray to white pattern design of the website.  | Consider making the "top" button more obvious and add a footer (your preference).
 
 
