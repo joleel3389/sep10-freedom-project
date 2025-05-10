@@ -9,11 +9,11 @@ For entry 6, my task was to write about how I made my MVP of my freedom project,
 
 For instance, one thing I took away from this project was that for your website to have the best responsiveness on all screen sizes, you may need more than one media query. For the image in my badminton context seen below, I used to only have a media query for screens under 1200px, but I discovered the same ratio I set for screens under 1200px in width didn't look very nice or appealing. And so, I created another media query for 992px wide (lg) and 768px wide (md).
 
-image
+![2025-05-10 15_41_48-Window](https://github.com/user-attachments/assets/eec0aea9-f067-4878-afd7-3638fbfb7c98)
 
 Another takeway I had was that I need to be considerate of my users. Initially, my description text for my dark background sections was too light for the user to be able to read. With feedback, I've changed this description text font color to be lighter than it used to be, making it easier for people to read when they look at my website like shown.
 
-image
+![2025-05-10 16_49_28-Window](https://github.com/user-attachments/assets/ca5fd9e5-7d2a-4195-b6e3-049a73dda262)
 
 ### EDP
 
@@ -24,6 +24,7 @@ I'm on the 5th stage on the engineering design process, which is to create a pro
 ---
 
 These are the following skills I've learned from writing my 6th blog.
+
 * Consideration
     * When coding my freedom project, I had to consider the user who would be viewing my website. Initially, I put description text on my dark bacgrounds a shade of grey, but with feedback from my peers I discovered that the shade of grey I chose was very hard to read. Especially on a dark background, it was hard to distinguish the grey text from the dark background. And so, I listened to this feedback from my peers and changed the description text color to be lighter, making it easier to read while being presented on a dark background.
 * Organization
