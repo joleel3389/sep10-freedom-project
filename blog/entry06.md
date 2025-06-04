@@ -36,7 +36,6 @@ These are the following skills I've learned from writing my 6th blog.
 
 After creating my prototype for step 5, I plan to move on to step 6, which is to test and evaluate the prototype.
 
-After finishing the MVP of my freedom project,
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
